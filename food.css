@@ -1,0 +1,44 @@
+h1 {
+    color:darkblue;
+    display:flex;
+justify-content: center;
+
+}
+h2{
+    color:darkblue;
+    display:flex;
+justify-content: center;
+margin-top: 10px;
+
+}
+h3{
+backGround:lightblue;
+display:flex;
+justify-content: center;
+}
+* {
+    border: solid;
+}
+
+
+
+.header2{
+    display:flex;
+    justify-content: center;
+
+}
+
+
+.pannerkofta{
+    justify-content: center;
+    margin-top: 10px;
+    margin-left:400px ;
+    margin-right: 500px;
+
+}
+
+
+
+body{
+background-color:rgb(245, 212, 242);
+}
